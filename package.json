@@ -1,0 +1,13 @@
+{
+  "name": "ttbd-wifi-util",
+  "version": "0.1.0",
+  "description": "ttbd-wifi-util",
+  "dependencies": {
+    "ttbd-iwlist": "TheThingBox/ttbd-iwlist#f68a07b"
+  },
+  "keywords": [
+    "TheThingBox",
+    "ttb"
+  ],
+  "author": "digitalairways"
+}
