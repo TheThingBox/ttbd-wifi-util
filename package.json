@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "ttbd-wifi-util",
   "dependencies": {
-    "ttbd-iwlist": "TheThingBox/ttbd-iwlist#b46772b"
+    "ttbd-iwlist": "TheThingBox/ttbd-iwlist#fb05ba7",
+    "ttbd-exec": "TheThingBox/ttbd-exec#b3d89e7"
   },
   "keywords": [
     "TheThingBox",
