@@ -4,7 +4,7 @@
   "description": "ttbd-wifi-util",
   "dependencies": {
     "ttbd-iwlist": "TheThingBox/ttbd-iwlist#e9ec7ca",
-    "ttbd-exec": "TheThingBox/ttbd-exec#b3d89e7"
+    "ttbd-exec": "TheThingBox/ttbd-exec#8595423"
   },
   "keywords": [
     "TheThingBox",
